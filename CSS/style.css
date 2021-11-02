@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#battleMusic {
+    vid.volume: 0.2;
+}
+
+#window img {
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+#monsterImg {
+    position: absolute;
+    top: 180px;
+    left: 176px;
+    height: 36px;
+    display: inline;
+}
+
+#slime {
+    display: none;
+}
+
+#zombie {
+    display: none;
+}
+
+#troll {
+    display: none;
+}
+
+#dragon {
+    display: none;
+}
+
+#again {
+    display: none;
+}
+
+#forest {
+    display: none;
+}
+
+#plains {
+    display: none;
+}
+
+#desert {
+    display: none;
+}
+
+#mountain {
+    display: none;
+}
