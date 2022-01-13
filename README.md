@@ -9,6 +9,8 @@ It is a bad game.
 
 That said, I'm keeping it as a reminder of where I started off. At some point my plan is to recreate this and build off of it, so this is staying on display for posterity.
 
+![TEST](https://github.com/ERion42/DragonQuestBattlesAlpha/blob/main/DQBattlesPic.png?raw=true)
+
 ## Getting Started
 
 ### Installing
